@@ -28,11 +28,13 @@ public class MobileResouce {
     }
 
     /*
-    * http://localhost:8080/mobile/AAA
+    * http://localhost:8080/mobile/Rohan
     * body
-    * {
-    *  "new": "YYY"
-    * }
+    *    {
+    *      "year": 2023,
+    *      "owner": "Rohan",
+    *      "model": "samsung"
+    *    }
     * */
     @PUT
     @Consumes(MediaType.APPLICATION_JSON)

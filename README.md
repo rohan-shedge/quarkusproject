@@ -17,7 +17,7 @@ You can run your application in dev mode that enables live coding using:
 ## Packaging and running the application
 
 The application can be packaged using:
-
+[](https://quarkus.io/guides/resteasy)
 ```shell script
 ./mvnw package
 ```
@@ -55,9 +55,9 @@ If you want to learn more about building native executables, please consult <htt
 
 ## Related Guides
 
-- RESTEasy Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing Jakarta REST and more
+- RESTEasy **Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing Jakarta REST and more
 
-## Provided Code
+##** Provided Code
 
 ### RESTEasy JAX-RS
 
